@@ -76,7 +76,7 @@ Steps during execution:
 	•	“DANGER DANGER” alert
 
 
-🧠 Technical Approach (Short Summary)
+🧠 Technical Approach
 
 The system uses classical computer vision for hand tracking:
 
